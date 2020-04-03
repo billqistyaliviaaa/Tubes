@@ -83,8 +83,6 @@ class loginn extends CI_Controller
 		$this->form_validation->set_rules('full_name','Full Name','required');
 		$this->form_validation->set_rules('username','Username','required');
 		$this->form_validation->set_rules('your_email','Email','required');
-		$this->form_validation->set_rules('instansi','Instansi','required');
-		$this->form_validation->set_rules('prodi','Prodi','required');
 		$this->form_validation->set_rules('handphone','Handphone','required');
 		$this->form_validation->set_rules('ttl','Tanggal Lahir','required');
 		$this->form_validation->set_rules('password','Password','required');
