@@ -107,7 +107,7 @@ class loginn extends CI_Controller
 			];
 			$q = $this->PelamarM->register($data);
 			if ($q == 1) {
-				redirect('login','refresh');
+				redirect('loginn/login','refresh');
 			}
 		}
 	}
