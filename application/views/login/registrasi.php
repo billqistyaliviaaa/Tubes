@@ -35,22 +35,6 @@
 						</div>
 						<div class="form-row">
 							<label class="form-row-inner">
-								<?php echo form_error('instansi'); ?>
-								<input type="text" name="instansi" id="instansi" class="input-text">
-								<span class="label">Instansi</span>
-								<span class="border"></span>
-							</label>
-						</div>
-						<div class="form-row">
-							<label class="form-row-inner">
-								<?php echo form_error('prodi'); ?>
-								<input type="text" name="prodi" id="prodi" class="input-text">
-								<span class="label">Program Studi</span>
-								<span class="border"></span>
-							</label>
-						</div>
-						<div class="form-row">
-							<label class="form-row-inner">
 								<?php echo form_error('handphone'); ?>
 								<input type="text" name="handphone" id="handphone" class="input-text">
 								<span class="label">Nomor Telepon</span>
