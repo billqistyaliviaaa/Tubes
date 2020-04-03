@@ -83,8 +83,6 @@ class loginn extends CI_Controller
 		$this->form_validation->set_rules('full_name','Full Name','required');
 		$this->form_validation->set_rules('username','Username','required');
 		$this->form_validation->set_rules('your_email','Email','required');
-		$this->form_validation->set_rules('instansi','Instansi','required');
-		$this->form_validation->set_rules('prodi','Prodi','required');
 		$this->form_validation->set_rules('handphone','Handphone','required');
 		$this->form_validation->set_rules('ttl','Tanggal Lahir','required');
 		$this->form_validation->set_rules('password','Password','required');
@@ -100,8 +98,6 @@ class loginn extends CI_Controller
 				'password' => md5($this->input->post('password')),
 				'name' => $this->input->post('full_name'),
 				'email' => $this->input->post('your_email'),
-				'instansi' => $this->input->post('instansi'),
-				'program_studi' => $this->input->post('prodi'),
 				'no_telepon' => $this->input->post('handphone'),
 				'tgl_lahir' => $this->input->post('ttl'),
 			];
