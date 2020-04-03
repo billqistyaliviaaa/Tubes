@@ -19,7 +19,7 @@
 									</li>
 									<li>
 										<i class="fa fa-envelope-o" aria-hidden="true"></i>
-										<div>shakillaaulia1@gmail.com</div>
+										<div>kharismaArizzaAbadi@gmail.com</div>
 									</li>
 								</ul>
 								<div class="ml-auto">
