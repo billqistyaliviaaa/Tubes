@@ -37,7 +37,7 @@
 									<div class="footer_title">Contact Us</div>
 									<div class="footer_contact_info">
 										<ul>
-											<li>Email: shakillaaulia1@gmail.com</li>
+											<li>Email: KharismaArizzaAbadi@gmail.com</li>
 											<li>Phone:  +(88) 111 555 666</li>
 											<li>Sun The Empire</li>
 										</ul>
